@@ -55,7 +55,7 @@ order_tool = {
 # 3. CUSTOMER QUESTION
 # ==========================================
 
-user_message = "Can you check the status of order ORD9999?"
+user_message = "Can you check the status of order ORD1001?"
 
 print("\n===================================")
 print("       TICKETPILOT STARTED")
